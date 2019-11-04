@@ -1,0 +1,24 @@
+
+
+body {
+	background-color : rgb(245, 245, 220);
+	color: rgb(0, 0, 0);
+}
+
+.profil {
+	width: 250px;
+	height: auto;
+}
+
+a{
+	color: rgb(136, 66, 29)
+}
+
+h1{
+	text-align: center;
+}
+
+.miel{
+	display: block;
+	margin :auto;
+}
